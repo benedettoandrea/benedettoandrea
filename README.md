@@ -8,7 +8,7 @@ Some projects I've worked on:
 - [Sportype](https://benedettoandrea.github.io/Sportype/) · A static website for the Sportype digital service
 - [lessicovintage](https://benedettoandrea.github.io/lessicovintage/) · A Leaflet-powered map for the instagram page @lessicovintage
 
-Check out what I've done for [Draw With Code](https://drawwithcode.github.io/)
+Check out what I've done for [Draw With Code](https://drawwithcode.github.io/):
 - [æ visualizer](https://drawwithcode.github.io/2021-03-benedettoandrea/)
 - [Animated Texture](https://drawwithcode.github.io/02-animated-texture-benedettoandrea/)
 - [Collaborative Moiré Pattern](https://collaborativemoirepattern.herokuapp.com/)
