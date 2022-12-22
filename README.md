@@ -4,7 +4,7 @@ I'm a designer and developer based in Milan with a soft spot for music and graff
 
 Some projects I've worked on:
 - [Automotifs](https://densitydesign.github.io/dd18-group-7/) · A collection of recurring communication strategies related to sustainability in car adverts on YouTube
-- [METANOISE](https://drawwithcode.github.io/2021-team-work-group-4/) · A interactive experience around the idea of intrusive thoughts
+- [METANOISE](https://drawwithcode.github.io/2021-team-work-group-4/) · A interactive experience on intrusive thoughts
 - [Sportype](https://benedettoandrea.github.io/Sportype/) · A static website for the Sportype digital service
 - [lessicovintage](https://benedettoandrea.github.io/lessicovintage/) · A Leaflet-powered map for the instagram page @lessicovintage
 
