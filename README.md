@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi 🧙‍♂️
 
-<!--
-**benedettoandrea/benedettoandrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a designer and developer based in Milan with a soft spot for music and graffiti writing.
 
-Here are some ideas to get you started:
+Some projects I've worked on:
+- [Automotifs](https://densitydesign.github.io/dd18-group-7/) · A collection of recurring communication strategies related to sustainability in car adverts on YouTube
+- [METANOISE](https://drawwithcode.github.io/2021-team-work-group-4/) · A interactive experience around the idea of intrusive thoughts
+- [Sportype](https://benedettoandrea.github.io/Sportype/) · A static website for the Sportype digital service
+- [lessicovintage](https://benedettoandrea.github.io/lessicovintage/) · A Leaflet-powered map for the instagram page @lessicovintage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out what I've done for [Draw With Code](https://drawwithcode.github.io/)
+- [æ visualizer](https://drawwithcode.github.io/2021-03-benedettoandrea/)
+- [Animated Texture](https://drawwithcode.github.io/02-animated-texture-benedettoandrea/)
+- [Collaborative Moiré Pattern](https://collaborativemoirepattern.herokuapp.com/)
+- [Generative Artwork](https://drawwithcode.github.io/2021-01-benedettoandrea/)
+- [Privacy Notice](https://drawwithcode.github.io/2021-04-benedettoandrea/)
