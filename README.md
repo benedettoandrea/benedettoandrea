@@ -1,6 +1,6 @@
 ### Hi 🧙‍♂️
 
-I'm a designer and developer based in Milan with a soft spot for music and graffiti writing.
+I'm a Swiss-Italian designer currently based in Milan with a soft spot for coding and graffiti writing.
 
 Some projects I've worked on:
 - [Automotifs](https://densitydesign.github.io/dd18-group-7/) · A collection of recurring communication strategies related to sustainability in car adverts on YouTube
