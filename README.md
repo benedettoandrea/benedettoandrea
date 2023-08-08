@@ -1,6 +1,6 @@
 ### Hi 🧙‍♂️
 
-I'm a Swiss-Italian designer currently based in Milan with a soft spot for coding and graffiti writing.
+I’m a Swiss-Italian designer and IT technician with a soft spot for coding, photography, and graffiti writing. I like to develop ideas methodically and with great attention to detail. I’m drawn to transverse working environments, where I'm able to put my skills to the test and to learn new concepts, practices and tools.
 
 Some projects I've worked on:
 - [Automotifs](https://densitydesign.github.io/dd18-group-7/) · A collection of recurring communication strategies related to sustainability in car adverts on YouTube
